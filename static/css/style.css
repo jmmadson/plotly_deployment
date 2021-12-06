@@ -1,7 +1,6 @@
 .jumbotron{
     background-size: cover;
-    background-color: lightseagreen;
-    background-image: url(/images/bacteria.png);
+    background-image: url(../images/bacteria.png);
     text-align: center;
     text-decoration-color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
